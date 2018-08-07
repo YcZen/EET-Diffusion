@@ -649,6 +649,7 @@ HORIZONTAL
 ## HOW IT WORKS
 
 (what rules the agents use to create the overall behavior of the model)
+This is an agent-based model for simulating the energy efficiency technologies' diffusion among small and medium size enterprises.
 
 ## HOW TO USE IT
 
