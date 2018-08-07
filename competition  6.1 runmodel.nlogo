@@ -43,7 +43,7 @@ to setup-companies
   ask n-of (weak-ratio * count strongs) strongs [set breed weaks]
 
   ;ask strongs [set color blue]
-  ;ask weaks [set color yellow]
+  ask weaks [set color yellow]
   ask companies [
     set adoption false
     set disappointed false
